@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+C:\Users\Arbuzov\source\repos\Methodic_moroz\Methodic_moroz\MyForm2.h(146,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Arbuzov\source\repos\Methodic_moroz\Methodic_moroz\MyForm2.h(121,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : see declaration of 'localtime'
+  MyForm2.cpp
+C:\Users\Arbuzov\source\repos\Methodic_moroz\Methodic_moroz\MyForm2.h(168,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Arbuzov\source\repos\Methodic_moroz\Methodic_moroz\MyForm2.h(146,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Arbuzov\source\repos\Methodic_moroz\Methodic_moroz\MyForm2.h(121,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : see declaration of 'localtime'
+  Generating Code...
+C:\Users\Arbuzov\source\repos\Methodic_moroz\Methodic_moroz\MyForm2.h(168,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+MyForm.obj : error LNK2028: unresolved token (0A00055E) "extern "C" int __stdcall CharToOemA(char const *,char *)" (?CharToOemA@@$$J18YGHPBDPAD@Z) referenced in function "private: void __clrcall Methodicmoroz::MyForm::MyForm_Load(class System::Object ^,class System::EventArgs ^)" (?MyForm_Load@MyForm@Methodicmoroz@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z)
+MyForm.obj : error LNK2028: unresolved token (0A000576) "extern "C" wchar_t * * __stdcall CommandLineToArgvW(wchar_t const *,int *)" (?CommandLineToArgvW@@$$J18YGPAPA_WPB_WPAH@Z) referenced in function "extern "C" int __stdcall WinMain(struct HINSTANCE__ *,struct HINSTANCE__ *,char *,int)" (?WinMain@@$$J216YGHPAUHINSTANCE__@@0PADH@Z)
+MyForm.obj : error LNK2019: unresolved external symbol "extern "C" int __stdcall CharToOemA(char const *,char *)" (?CharToOemA@@$$J18YGHPBDPAD@Z) referenced in function "private: void __clrcall Methodicmoroz::MyForm::MyForm_Load(class System::Object ^,class System::EventArgs ^)" (?MyForm_Load@MyForm@Methodicmoroz@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z)
+MyForm.obj : error LNK2019: unresolved external symbol "extern "C" wchar_t * * __stdcall CommandLineToArgvW(wchar_t const *,int *)" (?CommandLineToArgvW@@$$J18YGPAPA_WPB_WPAH@Z) referenced in function "extern "C" int __stdcall WinMain(struct HINSTANCE__ *,struct HINSTANCE__ *,char *,int)" (?WinMain@@$$J216YGHPAUHINSTANCE__@@0PADH@Z)
+C:\Users\Arbuzov\source\repos\Methodic_moroz\Release\Methodic_moroz.exe : fatal error LNK1120: 4 unresolved externals

@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+D:\Methodic_moroz\Methodic_moroz\MyForm2.h(136,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Methodic_moroz\Methodic_moroz\MyForm2.h(141,18): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Methodic_moroz\Methodic_moroz\MyForm.h(203,15): warning C4129: c: неизвестная escape-последовательность
+  MyForm2.cpp
+D:\Methodic_moroz\Methodic_moroz\MyForm2.h(136,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Methodic_moroz\Methodic_moroz\MyForm2.h(141,18): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm_check.cpp
+D:\Methodic_moroz\Methodic_moroz\MyForm2.h(136,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Methodic_moroz\Methodic_moroz\MyForm2.h(141,18): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Methodic_moroz.vcxproj -> D:\Methodic_moroz\Debug\Methodic_moroz.exe

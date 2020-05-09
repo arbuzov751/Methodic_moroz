@@ -1,0 +1,8 @@
+D:\Methodic_moroz\Methodic_moroz\Debug\Methodic_moroz.vcxprojAssemblyReference.cache
+D:\Methodic_moroz\Methodic_moroz\Debug\Methodicmoroz.MyForm.resources
+D:\Methodic_moroz\Methodic_moroz\Debug\Methodicmoroz.MyForm2.resources
+D:\Methodic_moroz\Methodic_moroz\Debug\Methodicmoroz.MyForm_check.resources
+D:\Methodic_moroz\Methodic_moroz\Debug\Methodic_moroz.vcxproj.GenerateResource.cache
+D:\Methodic_moroz\Methodic_moroz\Debug\Methodic_moroz.exe
+D:\Methodic_moroz\Methodic_moroz\Debug\Methodic_moroz.pdb
+D:\Methodic_moroz\Debug\Methodic_moroz.pdb
